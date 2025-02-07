@@ -5,7 +5,7 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 
   site: 'https://github.com/kalid157/portfolio',
-  base: '/',
+  base: '/index',
   trailingSlash: 'always',
 
 
